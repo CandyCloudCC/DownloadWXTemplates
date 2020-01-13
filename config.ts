@@ -1,0 +1,6 @@
+import path from 'path';
+
+export const token = `306674206`;
+
+export const cookie = `ua_id=ZtUQrtvfomg2shiCAAAAALtSDH3gbpFgjl1opKxEP9M=; pgv_pvi=1237698560; noticeLoginFlag=1; mm_lang=zh_CN; wxuin=76051269865894; pgv_pvid=4297754460; RK=IMadcBM9HT; ptcz=dd9fc52d2d71299e651f79fd91ca2b454354551c883ca8a8b89a1dac72e00aed; pac_uid=0_5e0168896c010; tvfe_boss_uuid=681ae48f1dfd22f2; pgv_info=ssid=s4166069865; pgv_si=s6930324480; cert=pCBhNQ9b3rJQGZWbMLg4SK6ThlLps3VM; rewardsn=; wxtokenkey=777; verifysession=h01f23c624961db6d8d7a945775dfb41af86a5cf844ed70a217cd070828476094af0977c2c64e9539db; uuid=f3bf4e49e8da76fd110ce9f8a12b2dc0; bizuin=3224263932; ticket=838438f7e6f331be2d35060e5f2839e02571583e; ticket_id=gh_8e95635dd509; data_bizuin=3224263932; data_ticket=tfDCPnXZqwtV50+4EhCeHgQX5SpIg6QPlBbrRA1s2fiJmZaeadtDjWjgJUi8hF/y; slave_sid=YURiRGtLeFlNMXB1SjhTMERPdGV1MVI2QzUyaEIwRnp1bDdJVUZMQWxWd25iU01nWkk1UlZ4Zmw5N3plOG45aVVHU0xNNlpQNmJTdFg4YzIwN0Nhc3V5M3AzcXdBa3V5RkdQSE8zdWdTalRwOWFCYjY5UktVbFo2bzVVdWlCZFpIVkdEdXhRR0ZhN0RrajlH; slave_user=gh_8e95635dd509; xid=c842d98c27bb0d49aab53e30e9610611; openid2ticket_o_FwuwCfTaqjEJL_glq4vwW9VHbc=ZniwQ4Ue1VH5hHvOV1f589J1SZIaz+Q7bCvxsH55MBQ=`;
+

@@ -1,0 +1,25 @@
+{
+  "name": "tang.rong.wxtemplates",
+  "version": "0.0.1",
+  "description": "A Node.js script to programmatically update DNS records",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "engine-strict": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.3",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "ts-node": "^8.6.0",
+    "typescript": "^3.7.4"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.15",
+    "@types/lodash": "^4.14.149",
+    "@types/node": "^13.1.6"
+  }
+}
